@@ -99,4 +99,4 @@ python run.py
 - 核心交互逻辑与 Persona 设计思想源自原项目作者 [therealXiaomanChu](https://github.com/therealXiaomanChu)。
 - 本项目新增的 Python 封装及 CLI 管理工具由 [L-Alfheim](https://github.com/L-Alfheim) 开发。
 
-Copyright (c) 2026 therealXiaomanChu(https://github.com/therealXiaomanChu) & L-Alfheim(https://github.com/L-Alfheim)
+Copyright (c) 2026 [therealXiaomanChu](https://github.com/therealXiaomanChu) & [L-Alfheim](https://github.com/L-Alfheim)
